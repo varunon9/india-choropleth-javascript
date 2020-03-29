@@ -45,3 +45,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 1. datamaps: https://github.com/markmarkoh/datamaps
 2. react-simple-maps: https://github.com/zcreativelabs/react-simple-maps
+
+### Blog
+
+https://medium.com/@varunon9/building-choropleth-map-heatmap-of-india-in-javascript-using-react-simple-maps-2e71758fc4df
